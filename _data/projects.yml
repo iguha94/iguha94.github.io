@@ -1,5 +1,5 @@
 - layout: left
   job_title: Conference Papers
   description: | # this will include new lines to allow paragraphs
-    <mark>Guha Indranil</mark>, Syed Ahmed Nadeem, Chenyu You, Xiaoliu Zhang, Steven M. Levy,Ge  Wang,  James  C.  Torner,  Punam  K.  Saha.   "Deep  learning-based  high-resolutionreconstruction of trabecular bone microstructures from low-resolution CT scans usingGAN-CIRCLE," in SPIE Medical Imaging 2020: Biomedical Applications in Molecular,Structural, and Functional Imaging.
-    <mark>Guha Indranil</mark>, and Punam K. Saha. "A New Algorithm for Local Blur-Scale Computation and Edge Detection," in International Symposium on Visual Computing, pp. 598-606. Springer, Cham, 2018.
+    *<mark>Guha Indranil</mark>, Syed Ahmed Nadeem, Chenyu You, Xiaoliu Zhang, Steven M. Levy,Ge  Wang,  James  C.  Torner,  Punam  K.  Saha.   "Deep  learning-based  high-resolutionreconstruction of trabecular bone microstructures from low-resolution CT scans usingGAN-CIRCLE," in SPIE Medical Imaging 2020: Biomedical Applications in Molecular,Structural, and Functional Imaging.
+    *<mark>Guha Indranil</mark>, and Punam K. Saha. "A New Algorithm for Local Blur-Scale Computation and Edge Detection," in International Symposium on Visual Computing, pp. 598-606. Springer, Cham, 2018.
