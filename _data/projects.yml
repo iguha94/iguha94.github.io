@@ -1,4 +1,4 @@
 - layout: left
-  name: Conference Papers
+  job_title: Conference Papers
   description: | # this will include new lines to allow paragraphs
     <mark>Guha Indranil</mark>, Syed Ahmed Nadeem, Chenyu You, Xiaoliu Zhang, Steven M. Levy,Ge  Wang,  James  C.  Torner,  Punam  K.  Saha.   “Deep  learning-based  high-resolutionreconstruction of trabecular bone microstructures from low-resolution CT scans usingGAN-CIRCLE,” in SPIE Medical Imaging 2020: Biomedical Applications in Molecular,Structural, and Functional Imaging.
