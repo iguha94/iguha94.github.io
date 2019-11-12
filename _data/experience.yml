@@ -1,8 +1,8 @@
-# - layout: left
-#   company: Time Inc. India
-#   link: https://www.meredith.com/
-#   job_title: Software Development Engineer
-#   dates: June 2016 - July 2017
+- layout: left
+  company: Time Inc. India
+  link: https://www.meredith.com/
+  job_title: Software Development Engineer
+  dates: June 2016 - July 2017
   
-#   description: | # this will include new lines to allow paragraphs
-#     I spent a wonderful year as software developer at Time Inc (now Meredith corp.) located in the beautiful city of Bangalore, India. At 'Time' I mostly worked with the asset manager team on the development of API's for storing and managing large number of document, audio and video assets of some famous magazine brands such as Time, People, Sports Illustrated etc.
+  description: | # this will include new lines to allow paragraphs
+    I spent a wonderful year as software developer at Time Inc (now Meredith corp.) located in the beautiful city of Bangalore, India. At 'Time' I mostly worked with the asset manager team on the development of API's for storing and managing large number of document, audio and video assets of some famous magazine brands such as Time, People, Sports Illustrated etc.
