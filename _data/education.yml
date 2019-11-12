@@ -1,7 +1,7 @@
-# - layout: left
-#   name: The University of Iowa
-#   dates: 2017 - 2022(expected)
-#   qualification: Pursuing PhD
+- layout: left
+  name: The University of Iowa
+  dates: 2017 - 2022(expected)
+  qualification: Pursuing PhD
 
 # - layout: middle
 #   name: Jadavpur University

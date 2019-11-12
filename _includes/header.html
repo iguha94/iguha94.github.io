@@ -102,7 +102,7 @@
 
       {%- if site.email -%}
         <p>
-          Email: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
+          <b>Email:</b> <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
         </p>
       {%- endif -%}
       {%- if site.phone -%}
@@ -112,7 +112,7 @@
       {%- endif -%}
       {%- if site.address -%}
         <p>
-          Address: {{ site.address | escape }}</a>
+          <b>Address:</b> {{ site.address | escape }}</a>
         </p>
       {%- endif -%}
     </div>
