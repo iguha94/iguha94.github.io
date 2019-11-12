@@ -32,13 +32,11 @@ experience_title: Experience
 educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
-# more_content: | # this will include new lines to allow paragraphs
-#   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-#    - Rock climbing
-#    - Gaming
-#    - Knitting
-#    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+more_title: Conference Talks
+more_content: | # this will include new lines to allow paragraphs
+  February 2020 - <font color="blue">(Upcoming)</font> oral presentation of the paper titled "Deep learning-based high-resolution reconstruction of trabecular bone microstructures from low-resolution CT scans using GAN-CIRCLE" at SPIE Medical Imaging conference held in Houston, Texas.
+
+  February 2018 - Presented paper titled "Segmentation and assessment of structural plasticity of hippocampal dendritic spines from 3D confocal light microscopy" at SPIE Medical Imaging conference held in Houston, Texas.<a href="/images/SPIE_PRESENTATION_final.pptx" target="_blank">(ppt)</a>
 
 # Footer
 footer_show_references: false
