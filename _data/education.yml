@@ -1,9 +1,12 @@
 - layout: left
   name: The University of Iowa
   dates: 2017 - 2022(expected)
-  qualification: Pursuing PhD
-
-# - layout: middle
-#   name: Jadavpur University
-#   dates: 2012-2016
-#   qualification: Bachelor of Engineering in Computer Science
+  qualification: PhD(ongoing)
+  description: | # this will include new lines to allow paragraphs
+    Pursuing PhD in medical imaging under the supervision of <a href="https://www.engineering.uiowa.edu/faculty-staff/punam-saha" target="_blank">prof. Punam Saha</a>
+- layout: left
+  name: Jadavpur University
+  dates: 2012-2016
+  qualification: Bachelor of Engineering in Computer Science
+  description: | # this will include new lines to allow paragraphs
+    Worked as undergraduate researcher under the guidance of <a href="http://www.jaduniv.edu.in/profile.php?uid=683" target="_blank">prof. Subhadip Basu</a>. My thesis was titled "Design and Analysis of Cerebrovascular Phantoms from Human BrainCT Image". 
