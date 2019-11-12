@@ -4,10 +4,9 @@ repository: sproogen/resume-theme
 
 # Personal info
 name: Indranil Guha
-title: Graduate Research Assistant
+title: PhD Candidate, Department of Electrical and Computer Engineering at the University of Iowa
 email: indranil-guha@uiowa.edu
-website: https://github.com/iguha94
-
+address: C721, General Hospital(GH), Iowa City, IA, 52246, USA
 
 # Social links
 #researchgate_username: Indranil_Guha3
@@ -30,7 +29,7 @@ projects_title: Publications
 experience_title: Professional Experience
 
 # Education Section
-# educaton_title: Education
+educaton_title: Education
 
 # More Section
 # more_title: A Little More About Me
