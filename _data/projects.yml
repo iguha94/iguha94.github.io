@@ -1,13 +1,13 @@
 - layout: left
   name: Conference Papers
   description: | # this will include new lines to allow paragraphs
-    <b>Guha Indranil</b>, Syed Ahmed Nadeem, Chenyu You, Xiaoliu Zhang, Steven M. Levy,Ge  Wang,  James  C.  Torner,  Punam  K.  Saha.   "Deep  learning-based  high-resolutionreconstruction of trabecular bone microstructures from low-resolution CT scans usingGAN-CIRCLE," in SPIE Medical Imaging 2020: Biomedical Applications in Molecular,Structural, and Functional Imaging.
+    <b>Guha Indranil</b>, Syed Ahmed Nadeem, Chenyu You, Xiaoliu Zhang, Steven M. Levy,Ge  Wang,  James  C.  Torner,  Punam  K.  Saha.   "Deep  learning-based  high-resolutionreconstruction of trabecular bone microstructures from low-resolution CT scans usingGAN-CIRCLE," in SPIE Medical Imaging <b>2020</b>: Biomedical Applications in Molecular,Structural, and Functional Imaging.
 
-    <b>Guha Indranil</b>, and Punam K. Saha. "A New Algorithm for Local Blur-Scale Computation and Edge Detection," in International Symposium on Visual Computing, pp. 598-606. Springer, Cham, 2018. <a href="/images/Final_camera_ready.pdf">(pdf)</a>
+    <b>Guha Indranil</b>, and Punam K. Saha. "A New Algorithm for Local Blur-Scale Computation and Edge Detection," in International Symposium on Visual Computing, pp. 598-606. Springer, Cham, <b>2018</b>. <a href="/images/Final_camera_ready.pdf">(pdf)</a>
     
-    Basu Subhadip, Punam Kumar Saha, Ewa Baczynska, Matylda Roszkowska, Marta Magnowska, Nirmal Das, <b>Indranil Guha</b>, and Jakub Wlodarczyk. "Segmentation and assessment of structural plasticity of hippocampal dendritic spines from 3D confocal light microscopy," in SPIE Medical Imaging 2018: Biomedical Applications in Molecular, Structural, and Functional Imaging, vol. 10578, p. 105780E. International Society for Optics and Photonics, 2018. <a href="/images/SPIE_Final_Paper.pdf">(pdf)</a>
+    Basu Subhadip, Punam Kumar Saha, Ewa Baczynska, Matylda Roszkowska, Marta Magnowska, Nirmal Das, <b>Indranil Guha</b>, and Jakub Wlodarczyk. "Segmentation and assessment of structural plasticity of hippocampal dendritic spines from 3D confocal light microscopy," in SPIE Medical Imaging 2018: Biomedical Applications in Molecular, Structural, and Functional Imaging, vol. 10578, p. 105780E. International Society for Optics and Photonics, <b>2018</b>. <a href="/images/SPIE_Final_Paper.pdf">(pdf)</a>
     
-    <b>Guha Indranil</b>, Nirmal Das, Pranati Rakshit, Mita Nasipuri, Punam K. Saha, and Subhadip Basu. "Design of cerebrovascular phantoms using fuzzy distance transform-based geodesic paths," in Progress in Intelligent Computing Techniques: Theory, Practice, and Applications, pp. 359-367. Springer, Singapore, 2018. <a href="/images/ICACNI_2016_paper_283.pdf">(pdf)</a>
+    <b>Guha Indranil</b>, Nirmal Das, Pranati Rakshit, Mita Nasipuri, Punam K. Saha, and Subhadip Basu. "Design of cerebrovascular phantoms using fuzzy distance transform-based geodesic paths," in Progress in Intelligent Computing Techniques: Theory, Practice, and Applications, pp. 359-367. Springer, Singapore, <b>2018</b>. <a href="/images/ICACNI_2016_paper_283.pdf">(pdf)</a>
     
 - layout: left
   name: Journal Papers
@@ -16,7 +16,7 @@
     
     <b>Guha Indranil</b>, and Punam K. Saha. "A Model-Independent Method for Local Blur Estimation and its Application to Edge Detection," in IEEE Transaction on Image Processing <font color="blue">(submitted)</font>.
   
-    <b>Guha Indranil</b>, Nirmal Das, Pranati Rakshit, Mita Nasipuri, Punam K. Saha, and Subhadip Basu. "A semiautomatic approach for segmentation of carotid vasculature from patients’ CTA images," in Innovations in Systems and Software Engineering 13, no. 4 (2017): 243-250. <a href="/images/guha2017.pdf">(pdf)</a>
+    <b>Guha Indranil</b>, Nirmal Das, Pranati Rakshit, Mita Nasipuri, Punam K. Saha, and Subhadip Basu. "A semiautomatic approach for segmentation of carotid vasculature from patients’ CTA images," in Innovations in Systems and Software Engineering 13, no. 4 (<b>2017</b>): 243-250. <a href="/images/guha2017.pdf">(pdf)</a>
 
     
     
