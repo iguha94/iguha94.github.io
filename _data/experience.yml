@@ -6,3 +6,12 @@
   
   description: | # this will include new lines to allow paragraphs
     I spent a wonderful year as software developer at Time Inc (now Meredith corp.) located in the beautiful city of Bangalore, India. At 'Time' I mostly worked with the asset manager team on the development of API's for storing and managing large number of document, audio and video assets of some famous magazine brands such as Time, People, Sports Illustrated etc.
+
+- layout: left
+  company: CVPR Unit, ISI Kolkata
+  link: https://www.isical.ac.in/~cvpr/
+  job_title: Summer Research Intern
+  dates: May 2015 - Aug 2015
+  
+  description: | # this will include new lines to allow paragraphs
+    Worked on bengali handwritten character recognition algorithms under the supervision of prof. B.B. Chaudhuri.
