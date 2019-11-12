@@ -34,9 +34,9 @@ educaton_title: Education
 # More Section
 more_title: Conference Talks
 more_content: | # this will include new lines to allow paragraphs
-  February 2020 - I will present the paper titled "Deep learning-based high-resolution reconstruction of trabecular bone microstructures from low-resolution CT scans using GAN-CIRCLE" at SPIE Medical Imaging conference in Houston, Texas.
+  <b>February 2020 -</b> I will present the paper titled "Deep learning-based high-resolution reconstruction of trabecular bone microstructures from low-resolution CT scans using GAN-CIRCLE" at SPIE Medical Imaging conference in Houston, Texas.
 
-  February 2018 - Presented the paper titled "Segmentation and assessment of structural plasticity of hippocampal dendritic spines from 3D confocal light microscopy" at SPIE Medical Imaging conference in Houston, Texas.<a href="/images/SPIE_PRESENTATION_final.pptx" target="_blank">(ppt)</a>
+  <b>February 2018 -</b> Presented the paper titled "Segmentation and assessment of structural plasticity of hippocampal dendritic spines from 3D confocal light microscopy" at SPIE Medical Imaging conference in Houston, Texas.<a href="/images/SPIE_PRESENTATION_final.pptx" target="_blank">(ppt)</a>
 
 # Footer
 footer_show_references: false
