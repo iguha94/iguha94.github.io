@@ -19,7 +19,7 @@ about_profile_image: images/profileMe.jpeg
 about_content: | # this will include new lines to allow paragraphs
   My name is Indranil and I am currently a third year PhD student at the Department of Electrical and Computer Engineering at the University of Iowa. I am pursuing my phd under the guidence of prof. Punam Kumar Saha, in Advanced Pulmonary Physiomic Imaging Laboratory (APPIL). I earned my bachelors degree in computer science and engineering from Jadavpur University in 2016. After Completing my bachelors, I worked as software development engineer at Time Inc India (Now Meredith Corporation) for one year before joining UIOWA in fall 2017.
 
-  My research work is primarily focused on the development of statistical methods for <u>quantitative imaging</u>, <u>musculoskeletal and pulmonary imaging</u>, and <u>high resolution CT-image reconstruction</u>. 
+  My research work is primarily focused on the development of <u>statistical methods for quantitative imaging</u>, <u>musculoskeletal and pulmonary imaging</u>, and <u>high resolution CT-image reconstruction</u>. 
   
 
 # Projects Section
