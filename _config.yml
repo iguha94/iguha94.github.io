@@ -4,9 +4,9 @@ repository: sproogen/resume-theme
 
 # Personal info
 name: Indranil Guha
-title: PhD Candidate, ECE Department at the University of Iowa
+title: PhD Candidate, ECE Department, University of Iowa
 email: indranil-guha@uiowa.edu
-web: C721, General Hospital(GH), Iowa City, IA, 52246, USA
+address: C721, General Hospital(GH), Iowa City, IA, 52246, USA
 
 # Social links
 #researchgate_username: Indranil_Guha3
