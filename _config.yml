@@ -38,11 +38,11 @@ more_content: | # this will include new lines to allow paragraphs
 
   <b>February 2018 -</b> Presented the paper titled "Segmentation and assessment of structural plasticity of hippocampal dendritic spines from 3D confocal light microscopy" at SPIE Medical Imaging conference in Houston, Texas.<a href="/images/SPIE_PRESENTATION_final.pptx" target="_blank">(ppt)</a>
 
-more_title: Awards and Honors
-more_content: | # this will include new lines to allow paragraphs
-  <b>2016:</b>  ACM-Kolkata chapter-ICACNI 2016 Best Paper Award in advanced computing category.
-  
+awards_title: Awards and Honors
+awards_content: | # this will include new lines to allow paragraphs
   <b>2017:</b>  Time Inc innovation award 2017 for my work in document classification.
+  
+  <b>2016:</b>  ACM-Kolkata chapter-ICACNI 2016 Best Paper Award in advanced computing category.
 
 # Footer
 footer_show_references: false
