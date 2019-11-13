@@ -19,7 +19,7 @@ about_profile_image: images/profileMe.jpeg
 about_content: | # this will include new lines to allow paragraphs
   My name is Indranil and I am currently a third year PhD student at the Department of Electrical and Computer Engineering at the University of Iowa. I am pursuing my PhD under the guidence of prof. Punam Kumar Saha, in Advanced Pulmonary Physiomic Imaging Laboratory (APPIL). I earned my bachelors degree in computer science and engineering from Jadavpur University in 2016. After Completing my bachelors, I worked as software development engineer at Time Inc India (Now Meredith Corporation) for one year before joining UIOWA in fall 2017.
 
-  My research work is primarily focused on the development of <u>statistical methods for quantitative imaging</u> and <u> quantitative morphometric analysis of human bone and lung structures </u>. I am  also interested in developing deep learning models for <u>high resolution CT-image reconstruction</u> and <u>pulmonary artery vein segmentation</u>. 
+  My research work is primarily focused on the development of <u>statistical methods for quantitative imaging</u> and <u> morphometric analysis of human bone and lung structures</u>. I am  also interested in developing deep learning models for high resolution <u>CT-image reconstruction</u> and <u>pulmonary artery-vein segmentation</u>. 
   
 
 # Projects Section
@@ -37,6 +37,12 @@ more_content: | # this will include new lines to allow paragraphs
   <b>February 2020 -</b> I will present the paper titled "Deep learning-based high-resolution reconstruction of trabecular bone microstructures from low-resolution CT scans using GAN-CIRCLE" at SPIE Medical Imaging conference in Houston, Texas.
 
   <b>February 2018 -</b> Presented the paper titled "Segmentation and assessment of structural plasticity of hippocampal dendritic spines from 3D confocal light microscopy" at SPIE Medical Imaging conference in Houston, Texas.<a href="/images/SPIE_PRESENTATION_final.pptx" target="_blank">(ppt)</a>
+
+more_title: Awards and Honors
+more_content: | # this will include new lines to allow paragraphs
+  <b>2016:</b>  ACM-Kolkata chapter-ICACNI 2016 Best Paper Award in advanced computing category.
+  
+  <b>2017:</b>  Time Inc innovation award 2017 for my work in document classification.
 
 # Footer
 footer_show_references: false
