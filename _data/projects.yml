@@ -1,7 +1,7 @@
 - layout: left
   name: Conference Papers
   description: | # this will include new lines to allow paragraphs
-    <b>Guha Indranil</b>, Syed Ahmed Nadeem, Chenyu You, Xiaoliu Zhang, Steven M. Levy,Ge  Wang,  James  C.  Torner,  Punam  K.  Saha.   "Deep  learning-based  high-resolutionreconstruction of trabecular bone microstructures from low-resolution CT scans usingGAN-CIRCLE," in SPIE Medical Imaging <b>2020</b>: Biomedical Applications in Molecular,Structural, and Functional Imaging.
+    <b>Guha Indranil</b>, Syed Ahmed Nadeem, Chenyu You, Xiaoliu Zhang, Steven M. Levy,Ge  Wang,  James  C.  Torner,  Punam  K.  Saha.   "Deep  learning-based  high-resolutionreconstruction of trabecular bone microstructures from low-resolution CT scans usingGAN-CIRCLE," in SPIE Medical Imaging <b>2020</b>: Biomedical Applications in Molecular,Structural, and Functional Imaging.<a href="/images/113170U.pdf" target="_blank">(pdf)</a>
 
     <b>Guha Indranil</b>, and Punam K. Saha. "A New Algorithm for Local Blur-Scale Computation and Edge Detection," in International Symposium on Visual Computing, pp. 598-606. Springer, Cham, <b>2018</b>. <a href="/images/Final_camera_ready.pdf" target="_blank">(pdf)</a>
     
@@ -12,7 +12,7 @@
 - layout: left
   name: Journal Papers
   description: | # this will include new lines to allow paragraphs
-    <b>Guha Indranil</b>, Benjamin Klintström , Eva Klintström , Xiaoliu Zhang , Örjan Smedby , Rodrigo Moreno , Punam K Saha. "A Comparative Study of Trabecular Bone Micro-Structural Measurements using Different CT Modalities," in Medical Physics <font color="blue">(under review)</font>.
+    <b>Guha Indranil</b>, Benjamin Klintström , Eva Klintström , Xiaoliu Zhang , Örjan Smedby , Rodrigo Moreno , Punam K Saha. "A Comparative Study of Trabecular Bone Micro-Structural Measurements using Different CT Modalities," in Medical Physics <font color="blue">https://doi.org/10.1088/1361-6560/abc367</font>.
     
     <b>Guha Indranil</b>, and Punam K. Saha. "A Model-Independent Method for Local Blur Estimation and its Application to Edge Detection," in IEEE Transaction on Image Processing <font color="blue">(submitted)</font>.
   
