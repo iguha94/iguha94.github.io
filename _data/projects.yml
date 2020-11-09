@@ -1,6 +1,13 @@
 - layout: left
   name: Conference Papers
   description: | # this will include new lines to allow paragraphs
+
+    <b>Guha Indranil</b>, Chamith S. Rajapakse, Xiaoliu Zhang, Gregory Chang, Punam K. Saha. "Finite Element Modelling of Trabecular Bone Microstructure using Emerging CT Images," in SPIE Medical Imaging <b>2021</b>: Biomedical Applications in Molecular,Structural, and Functional Imaging.<a href="/images/FEM_ABS.pdf" target="_blank">(pdf)</a>
+    
+    <b>Guha Indranil</b>, Syed Ahmed Nadeem, Xiaoliu Zhang, Steven Levy, James Torner, Punam K. Saha. "Unsupervised GAN-CIRCLE for High-Resolution Reconstruction of Bone Microstructure from Low-Resolution CT Scans," in SPIE Medical Imaging <b>2021</b>: Biomedical Applications in Molecular,Structural, and Functional Imaging.<a href="/images/DL_ABS.pdf" target="_blank">(pdf)</a>
+    
+    <b>Guha Indranil</b>, and Punam K. Saha. "Finite Element Modelling of Trabecular Bone Microstructure using Emerging CT Images," in International Symposium on Visual Computing, pp. 598-606. Springer, Cham, <b>2018</b>. <a href="/images/Final_camera_ready.pdf" target="_blank">(pdf)</a>
+    
     <b>Guha Indranil</b>, Syed Ahmed Nadeem, Chenyu You, Xiaoliu Zhang, Steven M. Levy,Ge  Wang,  James  C.  Torner,  Punam  K.  Saha.   "Deep  learning-based  high-resolutionreconstruction of trabecular bone microstructures from low-resolution CT scans usingGAN-CIRCLE," in SPIE Medical Imaging <b>2020</b>: Biomedical Applications in Molecular,Structural, and Functional Imaging.<a href="/images/113170U.pdf" target="_blank">(pdf)</a>
 
     <b>Guha Indranil</b>, and Punam K. Saha. "A New Algorithm for Local Blur-Scale Computation and Edge Detection," in International Symposium on Visual Computing, pp. 598-606. Springer, Cham, <b>2018</b>. <a href="/images/Final_camera_ready.pdf" target="_blank">(pdf)</a>
